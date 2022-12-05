@@ -1,0 +1,42 @@
+[
+  {
+  "name": "Frodo Baggins",
+  "type": "Hobbit",
+  "rank": 2,
+  "id": 0
+  },
+  {
+  "name":"Aragorn",
+  "type": "Human",
+  "rank": 3,
+  "id": 1
+
+  },
+  {
+  "name":"Samwise Gamgee", 
+  "type": "Hobbit",
+  "rank": 1,
+  "id": 2
+  },
+  {
+  "name":"Merry Brandybuck", 
+  "type": "Hobbit",
+  "rank": 8,
+  "id": 3
+  },
+  {
+  "name": "Pippen Took", 
+  "type": "Hobbit",
+  "rank": 9,
+  "id" : 4
+  },
+  {
+  "name": "Legolas",
+  "type": "Elf", 
+  "rank": 4,
+  "id": 5
+  }
+
+]
+
+
